@@ -2,3 +2,4 @@ title: "Great Awk Programming"
 logo: /assests/img/greatauk.jpg
 description: "(or how to turn complex tasks into tiny scripts)"
 theme: jekyll-theme-minimal
+show_downloads: "true"
